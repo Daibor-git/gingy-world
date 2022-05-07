@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x28b78f19460D79d5d14F3041bF6407e3a3a2A126",
+  "SCAN_LINK": "https://polygonscan.com/address/0x28b78f19460d79d5d14f3041bf6407e3a3a2a126",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "GingyWorld",
+  "SYMBOL": "GW",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/gingy-world",
+  "SHOW_BACKGROUND": true
+}
